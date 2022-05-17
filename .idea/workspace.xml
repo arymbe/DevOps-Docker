@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.3: Secret message/Exercise 1.3: Secret message" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.4: Missing dependencies/Exercise 1.4: Missing dependencies" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.5: Sizes of images/Exercise 1.5: Sizes of images" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.6: Hello Docker Hub/Exercise 1.6: Hello Docker Hub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/Exercise 1.7: Two line Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/additional.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/hello.sh" afterDir="false" />
+    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="part 1 exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part-1/Exercise 1.2: Cleanup/Exercise 1.2: Cleanup" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise 1.2: Cleanup/Exercise 1.2: Cleanup" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +37,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652724551456</updated>
-      <workItem from="1652724553497" duration="8547000" />
+      <workItem from="1652724553497" duration="9937000" />
     </task>
+    <task id="LOCAL-00001" summary="part 1 exercise">
+      <created>1652767589488</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652767589488</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -55,6 +54,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="part 1 exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 1 exercise" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

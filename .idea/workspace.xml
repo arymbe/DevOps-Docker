@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="" />
+    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.3: Secret message/Exercise 1.3: Secret message" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.4: Missing dependencies/Exercise 1.4: Missing dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.5: Sizes of images/Exercise 1.5: Sizes of images" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.6: Hello Docker Hub/Exercise 1.6: Hello Docker Hub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/Exercise 1.7: Two line Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/additional.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise 1.7: Two line Dockerfile/hello.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise 1.2: Cleanup/Exercise 1.2: Cleanup" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise 1.2: Cleanup/Exercise 1.2: Cleanup" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +22,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="29G1L2h0zNUZ5j6M9vJffXmo2tj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -32,12 +46,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652724551456</updated>
-      <workItem from="1652724553497" duration="2892000" />
+      <workItem from="1652724553497" duration="8547000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

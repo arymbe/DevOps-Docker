@@ -1,0 +1,12 @@
+(base) aribarkhah@Aris-MacBook-Pro DevOps-Docker % docker run -d --rm -it --name laper-it ubuntu sh -c 'echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website;'
+(base) aribarkhah@Aris-MacBook-Pro DevOps-Docker % docker exec -it laper-it bash
+root@fd2cc8f4b88e:/# apt-get update
+root@fd2cc8f4b88e:/# apt-get -y install curl
+root@fd2cc8f4b88e:/# curl helsinki.fi
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.helsinki.fi/">here</a>.</p>
+</body></html>

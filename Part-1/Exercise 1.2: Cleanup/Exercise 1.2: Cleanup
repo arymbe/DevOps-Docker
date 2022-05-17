@@ -1,3 +1,6 @@
+(base) aribarkhah@Aris-MacBook-Pro DevOps-Docker % docker run --name mysql -e MYSQL_ROOT_PASSWORD=mysql -d mysql:8.0
+(base) aribarkhah@Aris-MacBook-Pro DevOps-Docker % docker run --name postgreServer01 -p 8080:5432 -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=postgres -e POSTGRES_DB=testdb -d postgres:11
+
 docker ps -as
 
 CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                          PORTS                                       NAMES                  SIZE

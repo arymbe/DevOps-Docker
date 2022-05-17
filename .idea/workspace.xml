@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="part 1 exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Exercise 1.7: Two line Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Exercise 1.7: Two line Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -38,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652724551456</updated>
       <workItem from="1652724553497" duration="9937000" />
+      <workItem from="1652771499909" duration="3177000" />
     </task>
     <task id="LOCAL-00001" summary="part 1 exercise">
       <created>1652767589488</created>

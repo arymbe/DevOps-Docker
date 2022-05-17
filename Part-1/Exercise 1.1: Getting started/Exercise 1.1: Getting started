@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                      PORTS                                       NAMES
+5a2f26a29c1a   mysql:8.0      "docker-entrypoint.s…"   4 minutes ago   Up 4 minutes                3306/tcp, 33060/tcp                         mysql
+ee47354169b2   postgres:11    "docker-entrypoint.s…"   6 minutes ago   Up 6 minutes                0.0.0.0:8080->5432/tcp, :::8080->5432/tcp   postgreServer01
+7c78b64f4fd5   nginx:latest   "/docker-entrypoint.…"   7 hours ago     Exited (0) 43 seconds ago                                               condescending_carson

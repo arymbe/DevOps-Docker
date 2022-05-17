@@ -1,0 +1,15 @@
+docker ps -as
+
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                          PORTS                                       NAMES                  SIZE
+5a2f26a29c1a   mysql:8.0      "docker-entrypoint.s…"   5 minutes ago   Up 5 minutes                    3306/tcp, 33060/tcp                         mysql                  6B (virtual 524MB)
+ee47354169b2   postgres:11    "docker-entrypoint.s…"   7 minutes ago   Up 7 minutes                    0.0.0.0:8080->5432/tcp, :::8080->5432/tcp   postgreServer01        63B (virtual 284MB)
+7c78b64f4fd5   nginx:latest   "/docker-entrypoint.…"   7 hours ago     Exited (0) About a minute ago                                               condescending_carson   1.09kB (virtual 142MB)
+
+docker images
+
+REPOSITORY    TAG       IMAGE ID       CREATED        SIZE
+php           latest    55b8c03ed0fa   3 days ago     484MB
+postgres      11        4e1b82837286   5 days ago     284MB
+nginx         latest    7425d3a7c478   5 days ago     142MB
+mysql         8.0       76152be68449   5 days ago     524MB
+hello-world   latest    feb5d9fea6a5   7 months ago   13.3kB

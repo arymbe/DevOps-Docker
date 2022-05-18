@@ -1,0 +1,16 @@
+(base) aribarkhah@Aris-MacBook-Pro Exercise1.8:Image-for-script % docker build . -t hello-docker:curler
+(base) aribarkhah@Aris-MacBook-Pro Exercise1.8:Image-for-script % docker run -it curler
+Unable to find image 'curler:latest' locally
+docker: Error response from daemon: pull access denied for curler, repository does not exist or may require 'docker login': denied: requested access to the resource is denied.
+See 'docker run --help'.
+(base) aribarkhah@Aris-MacBook-Pro Exercise1.8:Image-for-script % docker run -it hello-docker:curler
+Input website:
+helsinki.fi
+Searching..
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.helsinki.fi/">here</a>.</p>
+</body></html>

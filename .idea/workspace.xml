@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="part 1 exercise">
+    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="1.7">
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.10:PortsOpen/Exercise1.10:PortsOpen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.11:Spring/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.11:Spring/Exercise1.11:Spring" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/Exercise1.12:Hello,frontend!" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/Exercise1.13:Hello,backend!" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.14:Environment/Exercise1.14:Environment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.15:Homework/Exercise1.15:Homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.16:Heroku/Exercise1.16:Heroku" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Imgur-JY5tHqr.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.8:Image-for-script/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.8:Image-for-script/Exercise 1.8: Image for script" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.8:Image-for-script/text.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.9:Volumes/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.9:Volumes/Exercise 1.9: Volumes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.9:Volumes/Imgur-JY5tHqr.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Exercise 1.7: Two line Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Exercise 1.7: Two line Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652724551456</updated>
       <workItem from="1652724553497" duration="9937000" />
-      <workItem from="1652771499909" duration="3177000" />
+      <workItem from="1652771499909" duration="14729000" />
     </task>
     <task id="LOCAL-00001" summary="part 1 exercise">
       <created>1652767589488</created>
@@ -50,16 +63,35 @@
       <option name="project" value="LOCAL" />
       <updated>1652767589488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.7">
+      <created>1652774692478</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652774692478</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="part 1 exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 1 exercise" />
+    <MESSAGE value="1.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

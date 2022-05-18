@@ -1,0 +1,5 @@
+(base) aribarkhah@Aris-MacBook-Pro Exercise1.11:Spring % docker build -t spring_docker .
+[+] Building 1.9s (7/7) FINISHED
+
+aribarkhah@Aris-MacBook-Pro Exercise1.11:Spring % docker run -p 8080:8080 -d spring_docker
+f27407a4b6e342cda0654600a4431c82110855a21e6ad09c1cef0a4e8eabdefa

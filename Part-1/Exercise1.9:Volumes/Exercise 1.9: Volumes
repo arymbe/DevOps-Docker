@@ -1,0 +1,2 @@
+touch /Volumes/Battuta/Developer/UoHDataScience/DevOps-Docker/DevOps-Docker/Part-1/Exercise1.9:Volumes/text.log
+docker run -v /Volumes/Battuta/Developer/UoHDataScience/DevOps-Docker/DevOps-Docker/Part-1/Exercise1.9:Volumes/text.log:/usr/app/text.log devopsdockeruh/simple-web-service

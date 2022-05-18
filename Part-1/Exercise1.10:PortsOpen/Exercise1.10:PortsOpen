@@ -1,0 +1,13 @@
+(base) aribarkhah@Aris-MacBook-Pro Exercise1.7:Two-line-Dockerfile % docker run -it -p 8080:8080 hello-docker:web-server
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:   export GIN_MODE=release
+ - using code:  gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /*path                    --> server.Start.func1 (3 handlers)
+[GIN-debug] Listening and serving HTTP on :8080
+[GIN] 2022/05/17 - 10:09:00 | 200 |       173.2µs |      172.17.0.1 | GET      "/"
+[GIN] 2022/05/17 - 10:09:01 | 200 |         802µs |      172.17.0.1 | GET      "/favicon.ico"
+[GIN] 2022/05/17 - 10:09:01 | 200 |       481.8µs |      172.17.0.1 | GET      "/apple-touch-icon-precomposed.png"
+[GIN] 2022/05/17 - 10:09:01 | 200 |        47.2µs |      172.17.0.1 | GET      "/apple-touch-icon.png"

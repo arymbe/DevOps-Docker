@@ -1,0 +1,4 @@
+(base) aribarkhah@Aris-MacBook-Pro example-frontend % docker build -t example-frontend .
+[+] Building 248.6s (14/14) FINISHED
+(base) aribarkhah@Aris-MacBook-Pro example-frontend % docker run -d -p 5000:5000 example-frontend
+828b0fb1a11c5175326df35381c4e9f251f6114fc30a9f310ce7fc7fcdde77bf

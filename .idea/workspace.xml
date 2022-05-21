@@ -2,22 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="1.7">
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.10:PortsOpen/Exercise1.10:PortsOpen" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.11:Spring/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.11:Spring/Exercise1.11:Spring" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/Exercise1.12:Hello,frontend!" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/Exercise1.13:Hello,backend!" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.14:Environment/Exercise1.14:Environment" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.15:Homework/Exercise1.15:Homework" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.16:Heroku/Exercise1.16:Heroku" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.7:Two-line-Dockerfile/Imgur-JY5tHqr.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.8:Image-for-script/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.8:Image-for-script/Exercise 1.8: Image for script" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.8:Image-for-script/text.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.9:Volumes/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.9:Volumes/Exercise 1.9: Volumes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.9:Volumes/Imgur-JY5tHqr.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/assets/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/assets/toskalogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/AmIRunning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/BackendConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/Exercise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/ExerciseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/NginxSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/PostgresConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/PostgresMessageList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/RedisSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/ExercisesList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/example-frontend/src/util/pingpong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/material-applications" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/app_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/cache/tryredis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/common/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/common/common_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/controller/messagecontroller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/pgconnection/trypostgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/example-backend/router/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/Exercise1.12:Hello,frontend!" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/Exercise1.12:Hello,frontend!" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/Exercise1.13:Hello,backend!" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/Exercise1.13:Hello,backend!" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.15:Homework/Exercise1.15:Homework" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.15:Homework/Exercise1.15:Homework" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.16:Heroku/Exercise1.16:Heroku" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.16:Heroku/Exercise1.16:Heroku" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +82,8 @@
       <option name="presentableId" value="Default" />
       <updated>1652724551456</updated>
       <workItem from="1652724553497" duration="9937000" />
-      <workItem from="1652771499909" duration="14729000" />
+      <workItem from="1652771499909" duration="15481000" />
+      <workItem from="1653073015344" duration="15761000" />
     </task>
     <task id="LOCAL-00001" summary="part 1 exercise">
       <created>1652767589488</created>
@@ -86,6 +115,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

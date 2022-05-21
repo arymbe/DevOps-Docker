@@ -1,0 +1,9 @@
+docker pull devopsdockeruh/heroku-example
+heroku login
+heroku container:login
+docker tag devopsdockeruh/heroku-example registry.heroku.com/docker-test-app-ari/web
+docker push registry.heroku.com/docker-test-app-ari/web
+heroku container:release -a docker-test-app-ari  web
+
+https://docker-test-app-ari.herokuapp.com
+

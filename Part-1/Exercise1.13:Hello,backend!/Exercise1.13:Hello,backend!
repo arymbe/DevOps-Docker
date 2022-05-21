@@ -1,4 +1,4 @@
 (base) aribarkhah@Aris-MacBook-Pro example-backend % docker build -t example-backend .
 [+] Building 8.9s (11/11) FINISHED
-(base) aribarkhah@Aris-MacBook-Pro example-backend % docker run -d -p 8000:8000 -v /tmp/logs.txt:/usr/src/app/logs.txt example-backend
+(base) aribarkhah@Aris-MacBook-Pro example-backend % docker run -d -p 8080:8080 example-backend
 359ac5d9c07e8608f5883f4e4bb1d2af00acd025568aa1b4b30f3af49332e694

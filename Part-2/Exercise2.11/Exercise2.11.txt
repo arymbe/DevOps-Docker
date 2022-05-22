@@ -1,0 +1,6 @@
+- I continued my project that I have submitted in Exercise 1.15.
+- I made some improvements to the apps, namely login feature.
+- Using login feature, user can move to home page to another page using username and password.
+- There is no encryption on password field since the purpose of the app to implement part 2's material.
+- I used postgres 11 as the database.
+- I used the nginx also.

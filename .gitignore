@@ -62,3 +62,14 @@
 /Part-2/Exercise2.6/example-frontend/src/
 /Part-2/Exercise2.6/example-frontend/.dockerignore
 /Part-2/Exercise2.6/example-frontend/node_modules/
+/Part-2/Exercise2.7/ml-kurkkumopo-backend/
+/Part-2/Exercise2.7/ml-kurkkumopo-frontend/
+/Part-2/Exercise2.7/ml-kurkkumopo-training/
+/Part-2/Exercise2.8/example-backend/
+/Part-2/Exercise2.8/example-frontend/
+/Part-2/Exercise2.9/example-backend/
+/Part-2/Exercise2.9/example-frontend/
+/Part-2/Exercise2.10/example-backend/
+/Part-2/Exercise2.10/example-frontend/
+/Part-2/Exercise2.9/redis/
+/Part-2/Exercise2.9/database/

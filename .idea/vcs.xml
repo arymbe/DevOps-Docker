@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/material-applications" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Part-1/Exercise1.16:Heroku/node-dev-env" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Part-2/Exercise2.5/material-applications" vcs="Git" />
   </component>
 </project>

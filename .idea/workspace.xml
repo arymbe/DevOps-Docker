@@ -1,10 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="1.7">
+    <list default="true" id="621758e0-b795-4b61-a469-b87b703315dd" name="Default Changelist" comment="exercise part 1">
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.1/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.2/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/app_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/cache/tryredis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/common/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/common/common_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/controller/messagecontroller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/pgconnection/trypostgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-backend/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/assets/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/assets/toskalogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/AmIRunning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/BackendConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/Exercise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/ExerciseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/NginxSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/PostgresConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/PostgresMessageList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/RedisSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/ExercisesList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.3/example-frontend/src/util/pingpong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/app_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/cache/tryredis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/common/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/common/common_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/controller/messagecontroller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/pgconnection/trypostgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-backend/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/assets/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/assets/toskalogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/AmIRunning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/BackendConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/Exercise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/ExerciseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/NginxSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/PostgresConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/PostgresMessageList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/RedisSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/ExercisesList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.4/example-frontend/src/util/pingpong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/Exercise2.5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/src/commons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/src/components/Playground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/src/components/Test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/calculator/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/compute/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/compute/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/compute/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/compute/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/compute/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/compute/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.5/scaling-exercise/load-balancer/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/app_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/cache/tryredis.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/common/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/common/common_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/controller/messagecontroller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/pgconnection/trypostgres.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-backend/router/router.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/assets/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/assets/toskalogo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/AmIRunning.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/BackendConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/Exercise.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/ExerciseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/NginxSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/PostgresConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/PostgresMessageList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/RedisSetup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/ExercisesList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/components/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/Exercise2.6/example-frontend/src/util/pingpong.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/train2.1/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Part-2/train2.1/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/Exercise1.13:Hello,backend!" beforeDir="false" afterPath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/Exercise1.13:Hello,backend!" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!/backend/Dockerfile" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +170,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Part-1/Exercise1.14:Environment/backend" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Part-1/Exercise1.14:Environment/backend" />
+      <recent name="$PROJECT_DIR$/Part-1/Exercise1.14:Environment/frontend" />
+      <recent name="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!" />
+      <recent name="$PROJECT_DIR$/Part-1/Exercise1.13:Hello,backend!" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,7 +193,8 @@
       <updated>1652724551456</updated>
       <workItem from="1652724553497" duration="9937000" />
       <workItem from="1652771499909" duration="15481000" />
-      <workItem from="1653073015344" duration="20551000" />
+      <workItem from="1653073015344" duration="26769000" />
+      <workItem from="1653179509508" duration="10344000" />
     </task>
     <task id="LOCAL-00001" summary="part 1 exercise">
       <created>1652767589488</created>
@@ -58,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652774692478</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercise">
+      <created>1653132419027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653132419027</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,9 +237,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Part-1/Exercise1.12:Hello,frontend!/material-applications" />
+      <path value="$PROJECT_DIR$/Part-1/Exercise1.16:Heroku/node-dev-env" />
+    </ignored-roots>
     <MESSAGE value="part 1 exercise" />
     <MESSAGE value="1.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.7" />
+    <MESSAGE value="exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
